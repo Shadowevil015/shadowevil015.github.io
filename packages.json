@@ -5,7 +5,7 @@
       "title" : "Performance Pack 1.17.1",
       "name" : "PerfPack",
       "version" : "1.0.0",
-      "location" : "perfpack.json",
+      "location" : "perfpack/perfpack.json",
       "priority" : 0
     }
   ]
