@@ -4,8 +4,10 @@ body {
 p {
   color: black;
   font-size:22px;
+  margin-left: 80px;
 }
 @font-face { font-family: ProductSans; src: url('ProductSans.ttf'); }
   h1 {
-     font-family: ProductSans
+     font-family: ProductSans;
+       margin-left: 80px;
 }
