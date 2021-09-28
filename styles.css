@@ -6,6 +6,7 @@ p {
   font-size:22px;
   margin-left: 80px;
   margin-top: 40px;
+  margin-bottom: 30px;
 }
 @font-face { font-family: ProductSans; src: url('ProductSans.ttf'); }
   h1 {
