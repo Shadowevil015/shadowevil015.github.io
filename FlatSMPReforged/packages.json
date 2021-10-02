@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Flat SMP: Reforged",
+      "name" : "Flat SMP (Forge Edition)",
+      "version" : "1.0.0",
+      "location" : "flat-smp-forge-edition-.json",
+      "priority" : 0
+    }
+  ]
+}
