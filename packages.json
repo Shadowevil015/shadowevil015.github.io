@@ -6,14 +6,14 @@
       "name" : "PerfPack",
       "version" : "1.0.0",
       "location" : "perfpack/perfpack.json",
-      "priority" : 0
+      "priority" : 1
     },
     {
       "title" : "Flat SMP: Reforged",
       "name" : "Flat SMP (Forge Edition)",
       "version" : "1.0.0",
       "location" : "FlatSMPReforged/flat-smp-forge-edition-.json",
-      "priority" : 0
+      "priority" : 1
     }
   ]
 }
