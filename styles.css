@@ -24,7 +24,7 @@ p {
         margin-top: 40px
 }
   .button {
-    background-color: #E6BB9A;
+    background-color: #645B54;
     border:none;
     color: #FFFFFF;
     padding: 10px 10px;
@@ -36,7 +36,14 @@ p {
     cursor: pointer;
     border-radius: 12px;
   }
-
+   .button1 {
+     background-color: #A9A5A2;
+     color: black;
+   }
+     .button1:hover {
+       background-color: #645B54;
+       color: black;
+     }
 
   * {
     box-sizing: border-box;
