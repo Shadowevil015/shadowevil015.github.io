@@ -24,3 +24,15 @@ p {
         margin-left: 80px;
         margin-top: 40px
 }
+  .button {
+    background-color: #F08080;
+    border:none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
