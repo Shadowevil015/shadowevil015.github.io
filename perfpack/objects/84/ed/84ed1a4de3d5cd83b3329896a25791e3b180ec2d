@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f837c21b85faad59be53f19ef12d8aaa2cdf15c98e36bc2149257b83f4f7a84c
-size 74
+{
+    "enabled": true,
+    "mute_errors": false,
+    "mute_warns": false
+}

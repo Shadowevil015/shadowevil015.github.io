@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b58f8620c107382f54d942388cec184f239a8578a882ffbbfeda98d2d28044e
-size 249
+#Indigo properties file
+#Tue Oct 12 13:22:19 BST 2021
+debug-compare-lighting=auto
+fix-exterior-vertex-lighting=auto
+ambient-occlusion-mode=hybrid
+always-tesselate-blocks=auto
+fix-smooth-lighting-offset=auto
+fix-luminous-block-ambient-occlusion=auto

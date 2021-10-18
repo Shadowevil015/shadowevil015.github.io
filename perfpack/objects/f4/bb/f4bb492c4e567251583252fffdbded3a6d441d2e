@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722
-size 350
+# This is the configuration file for Lithium.
+# This file exists for debugging purposes and should not be configured otherwise.
+#
+# You can find information on editing this file and all the available options here:
+# https://github.com/jellysquid3/lithium-fabric/wiki/Configuration-File
+#
+# By default, this file will be empty except for this notice.
