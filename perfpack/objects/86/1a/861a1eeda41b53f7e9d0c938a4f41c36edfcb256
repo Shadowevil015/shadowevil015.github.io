@@ -1,16 +1,3 @@
-{
-  "version": 1,
-  "displayDebugData": false,
-  "leafSize": 5,
-  "leafLifespan": 200,
-  "leafSpawnRate": 10,
-  "coniferLeafSpawnRate": 0,
-  "dropFromPlayerPlacedBlocks": true,
-  "minimumFreeSpaceBelow": 1,
-  "windEnabled": true,
-  "windlessDimensions": [
-    "minecraft:the_end",
-    "minecraft:the_nether"
-  ],
-  "leafSettings": {}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e45425c576a9b6112a43476c92fb3f8265fe280c3428cef604afde57b7e22448
+size 335

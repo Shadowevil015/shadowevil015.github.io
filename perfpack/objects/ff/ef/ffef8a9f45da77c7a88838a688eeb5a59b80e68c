@@ -1,5 +1,3 @@
-#number of threads RRP should use for generating resources
-#Mon Sep 27 22:27:30 BST 2021
-debug\ performance=false
-threads=3
-dump\ assets=false
+version https://git-lfs.github.com/spec/v1
+oid sha256:32b13c00d530f74d88fcd3f5fe9fd1a5612bf7ea4881598803b0505efe5d4870
+size 143

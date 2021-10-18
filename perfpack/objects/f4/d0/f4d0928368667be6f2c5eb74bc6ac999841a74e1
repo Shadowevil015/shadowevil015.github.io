@@ -1,8 +1,3 @@
-#Indium properties file
-#Tue Oct 12 13:22:19 BST 2021
-debug-compare-lighting=auto
-fix-exterior-vertex-lighting=auto
-ambient-occlusion-mode=auto
-always-tesselate-blocks=auto
-fix-smooth-lighting-offset=auto
-fix-luminous-block-ambient-occlusion=auto
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1e7fc111d2401b249177c5a397f88a1ca16a94b43462918969da777389b8bd8
+size 247

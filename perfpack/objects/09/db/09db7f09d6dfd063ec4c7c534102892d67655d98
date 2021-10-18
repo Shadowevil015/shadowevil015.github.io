@@ -1,6 +1,3 @@
-# This is the configuration file for Sodium.
-#
-# You can find information on editing this file and all the available options here:
-# https://github.com/jellysquid3/sodium-fabric/wiki/Configuration-File
-#
-# By default, this file will be empty except for this notice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26
+size 266

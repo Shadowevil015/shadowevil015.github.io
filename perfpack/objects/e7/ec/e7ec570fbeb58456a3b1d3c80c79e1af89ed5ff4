@@ -1,20 +1,3 @@
-{
-  "sorting": "ascending",
-  "count_libraries": true,
-  "compact_list": false,
-  "count_children": true,
-  "mods_button_style": "shrink",
-  "count_hidden_mods": true,
-  "mod_count_location": "title_screen",
-  "hide_mod_links": false,
-  "show_libraries": false,
-  "hide_mod_license": false,
-  "hide_badges": false,
-  "hide_mod_credits": false,
-  "easter_eggs": true,
-  "modify_title_screen": true,
-  "modify_game_menu": true,
-  "hide_config_buttons": false,
-  "hidden_mods": [],
-  "log_deprecation_warnings": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aa5bc3084abea4072ae4151047893e7dd660a35b7929cd5b85b9ae5f6e17ae0
+size 515

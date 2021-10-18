@@ -1,7 +1,3 @@
-{
-  "config_screen_list": false,
-  "titleStyle": "TOOLTIP",
-  "background_texture": "minecraft:textures/block/deepslate.png",
-  "event_hats": true,
-  "special_hats": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6f707e7fb0aaff1968202bd88196ba3526e6ef9dcec88ce77e532d0886041e2
+size 172
