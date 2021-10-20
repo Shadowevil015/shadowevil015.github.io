@@ -97,11 +97,11 @@ p {
   }
   
   li a:hover:not(.active) {
-    background-color: #111;
+    background-color: #040F16;
   }
   
   .active {
-    background-color: #04AA6D;
+    background-color: #436CC7;
   }
 
   body {
