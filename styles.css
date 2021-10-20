@@ -81,6 +81,7 @@ p {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    font-family: ProductSans;
   }
   
   li {
