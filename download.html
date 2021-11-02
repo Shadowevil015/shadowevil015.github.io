@@ -9,6 +9,10 @@
 
 <style>
 
+* {
+  box-sizing: border-box;
+}
+
 .row {
     margin-left: -5px;
     margin-right: -5px;
@@ -16,8 +20,23 @@
 
   .column {
     float: left;
-    width: 50%;
-    padding: 30px;
+    width: 40%;
+    padding: 20px;
+  }
+
+  /* Clearfix */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .starline{
+    margin-left: 160px;
+  }
+
+  .installer {
+    text-align: center;
   }
 
 </style>
@@ -36,26 +55,31 @@
     <div class="row">
       <div class="column">
 
-    <h1>Download the installer<h1>
+    <h1 class="installer">Download the installer<h1>
     
+      <div class="centred">
+
     <button class="button button1" onclick="document.location='https://github.com/Shadowevil015/shadowevil015.github.io/releases/download/1.0.0/launcher-bootstrap-1.1.0.jar'">Download Now!</button>
  
       </div>
-    </div>
 
-    <div class="row">
+      </div>
+
       <div class="column">
 
-      <h1>Latest Iris Starline<h1>
+      <h1 class="starline">Latest Iris Starline<h1>
 
-          <p>Click the download button below to download the latest version of Iris-Starline, A fork of Iris that allows you to configure shaders. @me if its outdated <br>
-          Credits: <a href="https://github.com/HyperCubeMC/Iris">https://github.com/HyperCubeMC/Iris</a>
-          </p>
+          <p>Click the download button below to download the latest version of Iris-Starline, A fork of Iris that allows you to configure shaders. @me if its outdated </p>
+
+          <p>Credits: <a href="https://github.com/HyperCubeMC/Iris">https://github.com/HyperCubeMC/Iris</a> </p>
+
+          <div class="centred">
 
         <button class="button button1" onclick="document.location='https://drive.google.com/u/0/uc?id=1t0HuyOM1T5haWg8YOmcEaeXKvTbObG-K&export=download'">Download Now!</button>
 
+          </div>
+
         </div>
-           </div>
 
   </body>
 
