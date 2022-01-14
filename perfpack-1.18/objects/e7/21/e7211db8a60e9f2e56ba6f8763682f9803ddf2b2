@@ -1,0 +1,5 @@
+#This file stores configuration options for Iris, such as the currently active shaderpack
+#Fri Jan 14 18:49:46 GMT 2022
+maxShadowRenderDistance=16
+shaderPack=ComplementaryShaders_v4.3.1.zip
+enableShaders=true
