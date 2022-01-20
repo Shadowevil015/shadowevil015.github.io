@@ -1,1 +1,6 @@
-type="module" src="https://cdn.jsdelivr.net/npm/@microsoft/fast-components/dist/fast-components.min.js"
+import {
+    allComponents,
+    provideFASTDesignSystem
+} from "@microsoft/fast-components";
+
+provideFASTDesignSystem().register(allComponents);
