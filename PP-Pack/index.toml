@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "7bbfbed46e2604c84df612e950efed8ba7fce4ed6f6afd97c5f07cc5a2f7cd2b"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "e7844089669642da016e8899389aec7de47a7a83e48992da8af1ff77c97fffbb"
+hash = "40860c6ac8115a772af0e960f646fe166bcc772f0116be9c298ade157580f0ab"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "a1d025cba510d794d85f4b12330f66cbc5c24eab621a97dcdf9fcfcbda6ba995"
+hash = "82f74224a29eef311a2924f3814a995683a18583392e24c1089ddeb40d564033"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "0fb4ed3155243518a5690d4cc7f0d6d9bf44c4f3c5fc502853c82cc25a174ca6"
+hash = "d24dcd2abbfa5c0564e6ac0f38ab70f95b5c3e088f7c758e251efcaefd59a8a1"
 metafile = true
 
 [[files]]
@@ -534,17 +534,17 @@ metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "a73b334034f1fce7b7f3cc01c932342a7cb858e0be3afca3f384f77f4f3163b7"
+hash = "84d3cda761e99be1f753a59534a0617f8583941049baef71669f49e5b641a317"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "c641a4f43b1c98bc9b7931306b55e83477233a4e33febf49ce7f9bebfa058872"
+hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
+hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
 metafile = true
 
 [[files]]
