@@ -1,8 +1,0 @@
-#This file stores configuration options for Iris, such as the currently active shaderpack
-#Fri Nov 26 20:24:16 GMT 2021
-uiTheme=IRIS
-scrollSpeed=100
-maxShadowRenderDistance=16
-condenseShaderConfig=true
-shaderPack=
-enableShaders=true

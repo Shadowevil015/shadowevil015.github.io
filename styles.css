@@ -8,7 +8,7 @@ p {
   margin-top: 40px;
   margin-bottom: 30px;
 }
-@font-face { font-family: ProductSans; src: url('ProductSans.ttf'); }
+@font-face { font-family: ProductSans; src: url('assets/ProductSans.ttf'); }
   h1 {
      font-family: ProductSans;
      margin-left: 80px;
