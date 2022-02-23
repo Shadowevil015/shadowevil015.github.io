@@ -513,11 +513,6 @@ hash = "a67d4c8433f5fbf9eca8a196ac202ee4ad7b73c0e70d930e8b758e3ec02251f2"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.toml"
-hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.toml"
 hash = "1edf92200fe14732e948c9de61a6edf9bb855c0cd76bf7f2e5800a01038a9832"
 metafile = true
