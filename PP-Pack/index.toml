@@ -488,6 +488,11 @@ hash = "82f74224a29eef311a2924f3814a995683a18583392e24c1089ddeb40d564033"
 metafile = true
 
 [[files]]
+file = "mods/lithium.toml"
+hash = "257073f193621e10160f4ac9fdb3b15973d9e5b017c79be7b4264616d4f812db"
+metafile = true
+
+[[files]]
 file = "mods/logical-zoom.toml"
 hash = "647614cd2a70f5f56e5a67da2c3eef5bdb37c9ca2669fdb8fc04a722ade257a9"
 metafile = true
@@ -504,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "4bd880d9c257b1a36cda95b8a69cf9faf13699c16ce6754c6a06a46fccd2a2a4"
+hash = "3b22fd93a757f999f11eddd22debd55c3bbebb3ed1978f3854039b6574b7a041"
 metafile = true
 
 [[files]]
