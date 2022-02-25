@@ -518,6 +518,11 @@ hash = "a67d4c8433f5fbf9eca8a196ac202ee4ad7b73c0e70d930e8b758e3ec02251f2"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard-fabric.toml"
+hash = "8908fa0e0b94154c3d3fb7c51a431c3d5d6665ff16e6956e14b79b1c6f7af942"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.toml"
 hash = "b6705528906149f535015186e63f6001ba8eb0a4768b698ef9fa542a2469fd90"
 metafile = true
