@@ -518,6 +518,11 @@ hash = "a67d4c8433f5fbf9eca8a196ac202ee4ad7b73c0e70d930e8b758e3ec02251f2"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "b6705528906149f535015186e63f6001ba8eb0a4768b698ef9fa542a2469fd90"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "1edf92200fe14732e948c9de61a6edf9bb855c0cd76bf7f2e5800a01038a9832"
 metafile = true
