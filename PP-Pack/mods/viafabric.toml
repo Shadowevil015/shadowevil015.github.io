@@ -1,0 +1,13 @@
+name = "ViaFabric"
+filename = "viafabric-0.4.5+263-main.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3646/77/viafabric-0.4.5+263-main.jar"
+hash-format = "murmur2"
+hash = "3564142807"
+
+[update]
+[update.curseforge]
+file-id = 3646077
+project-id = 391298

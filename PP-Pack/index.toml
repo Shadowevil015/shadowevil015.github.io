@@ -548,6 +548,11 @@ hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
 metafile = true
 
 [[files]]
+file = "mods/viafabric.toml"
+hash = "65eb30ac61037cd9d52e46d2d675bbf8574df249dcfef1c3e40f9760f9f3135a"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.toml"
 hash = "b46e401bca6e5d8a3845d7323731a1aa8cedece1428c899a991701a974080b9e"
 metafile = true
