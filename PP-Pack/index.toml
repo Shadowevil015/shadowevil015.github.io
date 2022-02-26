@@ -389,10 +389,6 @@ file = "figura/trust_settings.nbt"
 hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
-file = "mods/DistantHorizons-1.6.2a-1.18.1-2022_02_26_13_29.jar"
-hash = "f3565aad4f7dea6ee399576fafc3d50b4c45dce17cd99ffdaf91cc20fe9b72f7"
-
-[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "8669954f0a3a7573db472acb7335b88e8d0d61cd83488a8b558619114ee331f3"
 metafile = true
