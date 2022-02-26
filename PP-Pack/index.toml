@@ -513,11 +513,6 @@ hash = "3b22fd93a757f999f11eddd22debd55c3bbebb3ed1978f3854039b6574b7a041"
 metafile = true
 
 [[files]]
-file = "mods/multiconnect.toml"
-hash = "a67d4c8433f5fbf9eca8a196ac202ee4ad7b73c0e70d930e8b758e3ec02251f2"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard-fabric.toml"
 hash = "8908fa0e0b94154c3d3fb7c51a431c3d5d6665ff16e6956e14b79b1c6f7af942"
 metafile = true
