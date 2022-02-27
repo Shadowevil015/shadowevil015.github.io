@@ -1,0 +1,13 @@
+name = "Cosmetica"
+filename = "Cosmetica 1.0.0 (Minecraft 1.18).jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3651/565/Cosmetica 1.0.0 (Minecraft 1.18).jar"
+hash-format = "murmur2"
+hash = "245131752"
+
+[update]
+[update.curseforge]
+file-id = 3651565
+project-id = 581009
