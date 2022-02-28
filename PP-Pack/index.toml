@@ -414,6 +414,11 @@ hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
+file = "mods/colormatic.toml"
+hash = "83a8456037e24613b9430898c1601db96a4b62d1e0e18d8850ee66c3b97dc1e3"
+metafile = true
+
+[[files]]
 file = "mods/continuity.toml"
 hash = "8480c5ccbcf98a3f40406bbd5831eed53179c4353a2804689a0e1cc1b7cdc63f"
 metafile = true
