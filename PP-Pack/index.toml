@@ -390,7 +390,7 @@ hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a4f9d4a2bb6c3ca55085505462267d93e9f018d538cc2f14bd2b998ddf3a1f8d"
+hash = "ffbaf2c501e3b3c1cc279b29b205eb04a5f79dcd4891cd584b6e00c5c082dc9f"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
+hash = "42532e1814e1352caa38b2e7693343266a66e343835b120a40b566ae2115d6a0"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "cef05705a376d2810aead41099c48f4be37cf8e13801f3323e2811e63b139268"
+hash = "8d99f712defddfdb5cdae4c462257d0413ba769bb3dcc344b8fcc34dfedeeb68"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "9e072cfa7585d05a637e3433eb14fce82f679ebd74da94f46012e563833c8567"
+hash = "303222faea141fc0d56e6c673de616a6fd9e809ec74cfe01781ea1459d98b57d"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "82f74224a29eef311a2924f3814a995683a18583392e24c1089ddeb40d564033"
+hash = "7caf870b1bccf1fb81df39e992412a59627ce3decd90602664fc16d22507e6bf"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "d24dcd2abbfa5c0564e6ac0f38ab70f95b5c3e088f7c758e251efcaefd59a8a1"
+hash = "51dd76cb8c26084de84c367f9919bc8289db553a371e3adfe1d99c81feb0c08c"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "b6705528906149f535015186e63f6001ba8eb0a4768b698ef9fa542a2469fd90"
+hash = "4f7a996bedf69ad81e375d8c12fb41ad686a58281f451335419e2da8604967bb"
 metafile = true
 
 [[files]]
