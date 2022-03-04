@@ -459,8 +459,8 @@ hash = "7eeacfa8faa948ee97a0ef20445944023ca49576120261b3a0a3872320042a26"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.0.8-rc.11-1.18.jar"
-hash = "81881dc6783998a1bf240156feb18d35ff3d8e572762241701927006f9dbefde"
+file = "mods/figura-0.0.8-1.18.jar"
+hash = "cc3cea4fa90d463beab1c8cd6b9c8a8bf6150eebe09cfbbc6895bb64bb144559"
 
 [[files]]
 file = "mods/illuminations.toml"
