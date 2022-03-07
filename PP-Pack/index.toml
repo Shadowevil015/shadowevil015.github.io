@@ -463,6 +463,11 @@ file = "mods/figura-0.0.8-1.18.jar"
 hash = "cc3cea4fa90d463beab1c8cd6b9c8a8bf6150eebe09cfbbc6895bb64bb144559"
 
 [[files]]
+file = "mods/forgetmechunk.toml"
+hash = "6b54d93ec68301281506dab8f73e00c4fce021836acbe0472f8edea204831a27"
+metafile = true
+
+[[files]]
 file = "mods/illuminations.toml"
 hash = "d4beda34ea4d7c3544510d2615f28f193bdcc2c25253406dce157155971a4582"
 metafile = true

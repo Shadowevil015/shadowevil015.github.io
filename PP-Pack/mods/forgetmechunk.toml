@@ -1,0 +1,13 @@
+name = "ForgetMeChunk"
+filename = "forgetmechunk-1.18.X-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRXn3MrA/versions/1.0.3/forgetmechunk-1.18.X-1.0.3.jar"
+hash-format = "sha512"
+hash = "4c4d1982397c4b67d93a0812e9c1704612a6d7f0f6ca9a35db259482a95ec46c7bcd6522607d1997dfcb34e1536f63ed18717e0493989adb1fe718cf681516b2"
+
+[update]
+[update.modrinth]
+mod-id = "vRXn3MrA"
+version = "fn2xy367"
