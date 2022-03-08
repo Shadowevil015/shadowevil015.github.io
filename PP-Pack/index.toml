@@ -563,6 +563,11 @@ hash = "65eb30ac61037cd9d52e46d2d675bbf8574df249dcfef1c3e40f9760f9f3135a"
 metafile = true
 
 [[files]]
+file = "mods/watson.toml"
+hash = "b6995918da9ca0f1fbad64eb028755d95a098a86aea017cc70e4e9778d05ddc5"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.toml"
 hash = "b46e401bca6e5d8a3845d7323731a1aa8cedece1428c899a991701a974080b9e"
 metafile = true

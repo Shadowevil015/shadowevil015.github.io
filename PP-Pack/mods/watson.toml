@@ -1,0 +1,13 @@
+name = "Watson"
+filename = "watson-fabric-1.18.1-1.14.0.20220222.220917.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3657/872/watson-fabric-1.18.1-1.14.0.20220222.220917.jar"
+hash-format = "murmur2"
+hash = "702634210"
+
+[update]
+[update.curseforge]
+file-id = 3657872
+project-id = 361509
