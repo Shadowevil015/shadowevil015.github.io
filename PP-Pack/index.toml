@@ -444,6 +444,11 @@ hash = "683b11dae3bf33fbf1c61c3a52298231ccb8ed20c6cfe4db0d1e531a033c5372"
 metafile = true
 
 [[files]]
+file = "mods/fastchest.toml"
+hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
+metafile = true
+
+[[files]]
 file = "mods/figura-0.0.8-1.18.jar"
 hash = "cc3cea4fa90d463beab1c8cd6b9c8a8bf6150eebe09cfbbc6895bb64bb144559"
 
