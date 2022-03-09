@@ -419,18 +419,8 @@ hash = "2f0b3be0f0bffc8165c914aaf1fcf6b50357649bc7f09de6465cfd44636a5d6c"
 metafile = true
 
 [[files]]
-file = "mods/cosmetics.toml"
-hash = "411a0b1df018f422ba1d98aeafd21c28113aca51b2661387a26e5a192425bffc"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.toml"
 hash = "9303f6ef825ac9dac488d37017ed6ef9eec0572e0e87133eb4450de4182d7af2"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-block-entities.toml"
-hash = "08280b7b95f068d0311df8ce7a79d9f33a123369448ad4bccc6f0b98ff799807"
 metafile = true
 
 [[files]]
@@ -460,11 +450,6 @@ hash = "cc3cea4fa90d463beab1c8cd6b9c8a8bf6150eebe09cfbbc6895bb64bb144559"
 [[files]]
 file = "mods/forgetmechunk.toml"
 hash = "6b54d93ec68301281506dab8f73e00c4fce021836acbe0472f8edea204831a27"
-metafile = true
-
-[[files]]
-file = "mods/illuminations.toml"
-hash = "d4beda34ea4d7c3544510d2615f28f193bdcc2c25253406dce157155971a4582"
 metafile = true
 
 [[files]]
