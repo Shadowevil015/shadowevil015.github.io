@@ -390,7 +390,7 @@ hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ffbaf2c501e3b3c1cc279b29b205eb04a5f79dcd4891cd584b6e00c5c082dc9f"
+hash = "e5dea3fd66fc006bce9d232015b5145b5b8dd5e41844106f4cf5ed8a8acb3a8f"
 metafile = true
 
 [[files]]
