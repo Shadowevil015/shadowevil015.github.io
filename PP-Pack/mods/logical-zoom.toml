@@ -1,13 +1,13 @@
 name = "Logical Zoom"
-filename = "logical_zoom-0.0.13.jar"
+filename = "logical_zoom-0.0.14.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3557/320/logical_zoom-0.0.13.jar"
+url = "https://edge.forgecdn.net/files/3667/604/logical_zoom-0.0.14.jar"
 hash-format = "murmur2"
-hash = "1271290967"
+hash = "2923218187"
 
 [update]
 [update.curseforge]
-file-id = 3557320
+file-id = 3667604
 project-id = 356461

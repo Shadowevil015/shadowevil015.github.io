@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.toml"
-hash = "bb6ebf794d0a67320a887d4cc3b3c25691410729b8d839bf592ec7126720596f"
+hash = "4667c502a627c89937673b461f447105f3054cc936158fa6f16a5017c4c7c1fb"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-api.toml"
-hash = "bbc23d8aca235565f5423868fbc3b8e378d82a11eec8e9b9d20d1f716ebc6498"
+hash = "512d80d87b7d7be2a660ddae5450c9b44c6b553f14d413d5c494b1a5d0df8352"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "8480c5ccbcf98a3f40406bbd5831eed53179c4353a2804689a0e1cc1b7cdc63f"
+hash = "2f0b3be0f0bffc8165c914aaf1fcf6b50357649bc7f09de6465cfd44636a5d6c"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "42532e1814e1352caa38b2e7693343266a66e343835b120a40b566ae2115d6a0"
+hash = "81b5af611b83c87a7c2dd1c53d26fa3a092fbefe1049f8eb2d1dee34a8d318f8"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.toml"
-hash = "7eeacfa8faa948ee97a0ef20445944023ca49576120261b3a0a3872320042a26"
+hash = "683b11dae3bf33fbf1c61c3a52298231ccb8ed20c6cfe4db0d1e531a033c5372"
 metafile = true
 
 [[files]]
@@ -474,12 +474,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "8d99f712defddfdb5cdae4c462257d0413ba769bb3dcc344b8fcc34dfedeeb68"
+hash = "c76f87dceddb22c87dfa84b30ca227724ae3d174502cc36c5f4dfef6cd41fc68"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "89779011256d442c02b671473640be56756c1824ff1417adf4973b24dd5826a9"
+hash = "eb9bbad060a1ef6251f3eb13453cf95da53ea9a13bab4a706673c4f782676df2"
 metafile = true
 
 [[files]]
@@ -499,32 +499,32 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "7caf870b1bccf1fb81df39e992412a59627ce3decd90602664fc16d22507e6bf"
+hash = "eb0af0e6ed353789acbccaedb0593bda9481127dce6736bff07158b9978d283f"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "257073f193621e10160f4ac9fdb3b15973d9e5b017c79be7b4264616d4f812db"
+hash = "04784b1d0fe8a9a18c37179faf84cedd007a6a00badf8dbfe4dbd5c9743f1fbf"
 metafile = true
 
 [[files]]
 file = "mods/logical-zoom.toml"
-hash = "647614cd2a70f5f56e5a67da2c3eef5bdb37c9ca2669fdb8fc04a722ade257a9"
+hash = "48bb5ac7bc1404169a2bd030db196f8075d8cc3a54b3ce347aa2aa35b0b3ea93"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "51dd76cb8c26084de84c367f9919bc8289db553a371e3adfe1d99c81feb0c08c"
+hash = "5213c0e126c9875127b9ac60d745a15b1f78bd4330b281d291ba5cc946c415a5"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
+hash = "66b6c28b375dec074ee854b295b94d966faebe84c82d017aec8ca9959a3c17a1"
 metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "3b22fd93a757f999f11eddd22debd55c3bbebb3ed1978f3854039b6574b7a041"
+hash = "fe9337a7828ad1b7dfc039e264e2192c48a432a588a949eea2e6cd2c7dbfe743"
 metafile = true
 
 [[files]]
@@ -539,37 +539,37 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "1edf92200fe14732e948c9de61a6edf9bb855c0cd76bf7f2e5800a01038a9832"
+hash = "ea478b1dfdb73cc60c52be8cf53b9261dd819cf08ed23b703e0835d028e861fb"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "823cf2b40b652b310a3b179ed0f58afd66b94d76b75f6b9f7adcf02fd6620577"
+hash = "c60b90f09ddd4cdd0fd6e93435713d005b6075ac6238d796b0ea25532ff69c50"
 metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "84d3cda761e99be1f753a59534a0617f8583941049baef71669f49e5b641a317"
+hash = "5edb4a9f2d0fd8eefeb27462aeb4656b71daaa2b234719e3a19689e073e4a1cc"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
+hash = "1b5951a7df3054df579c91d569102546e57370bdebf9e5483e6ba7f90026cd1a"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "65eb30ac61037cd9d52e46d2d675bbf8574df249dcfef1c3e40f9760f9f3135a"
+hash = "61f6dbcdf51f011ace4e29b7ad79caf59d3b48b2c3f2d2e3cf1ce8fad1dea84a"
 metafile = true
 
 [[files]]
 file = "mods/watson.toml"
-hash = "b6995918da9ca0f1fbad64eb028755d95a098a86aea017cc70e4e9778d05ddc5"
+hash = "763018db8bc628b11554309c882bbfdb9f89e1e278a7eb1d85171509ce67de2e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "b46e401bca6e5d8a3845d7323731a1aa8cedece1428c899a991701a974080b9e"
+hash = "a71b029fa889b5a240b93824d55721878f15e189940557a8a9b7415fee2e835f"
 metafile = true
 
 [[files]]

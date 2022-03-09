@@ -1,13 +1,13 @@
 name = "Chest Tracker"
-filename = "chesttracker-1.18.1-1.1.10.jar"
+filename = "chesttracker-1.18.2-1.1.12.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3637/706/chesttracker-1.18.1-1.1.10.jar"
+url = "https://edge.forgecdn.net/files/3672/249/chesttracker-1.18.2-1.1.12.jar"
 hash-format = "murmur2"
-hash = "2230393479"
+hash = "298423810"
 
 [update]
 [update.curseforge]
-file-id = 3637706
+file-id = 3672249
 project-id = 397217

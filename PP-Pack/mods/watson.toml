@@ -1,13 +1,13 @@
 name = "Watson"
-filename = "watson-fabric-1.18.1-1.14.0.20220222.220917.jar"
+filename = "watson-fabric-1.18.2-1.14.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3657/872/watson-fabric-1.18.1-1.14.0.20220222.220917.jar"
+url = "https://edge.forgecdn.net/files/3682/187/watson-fabric-1.18.2-1.14.1.jar"
 hash-format = "murmur2"
-hash = "702634210"
+hash = "4127347980"
 
 [update]
 [update.curseforge]
-file-id = 3657872
+file-id = 3682187
 project-id = 361509
