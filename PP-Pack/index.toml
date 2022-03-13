@@ -390,7 +390,7 @@ hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "e5dea3fd66fc006bce9d232015b5145b5b8dd5e41844106f4cf5ed8a8acb3a8f"
+hash = "75dbf362cb9b4c641d76a95094e572bfedf793da1df7825b55c89980b2f93024"
 metafile = true
 
 [[files]]
@@ -464,12 +464,12 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "eb9bbad060a1ef6251f3eb13453cf95da53ea9a13bab4a706673c4f782676df2"
+hash = "de553ecfac7565a313f8db312ce9143d6749214aade69c042dddcd28aabc00d6"
 metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "303222faea141fc0d56e6c673de616a6fd9e809ec74cfe01781ea1459d98b57d"
+hash = "07fdfd533e2447dc2e567061d64413702b4f86083d6ae5f028f2ccb8f1bbe288"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "ea478b1dfdb73cc60c52be8cf53b9261dd819cf08ed23b703e0835d028e861fb"
+hash = "750475ae185fb63ea3ca020733cf8ca133501a6ff909d49d99c99aee273d5144"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "a71b029fa889b5a240b93824d55721878f15e189940557a8a9b7415fee2e835f"
+hash = "4e979e86419078c56986e349c7679588a8f1098a96fb427b140c804a6b29d71b"
 metafile = true
 
 [[files]]
