@@ -390,17 +390,17 @@ hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "75dbf362cb9b4c641d76a95094e572bfedf793da1df7825b55c89980b2f93024"
+hash = "652c242ee4fecd17a61b716178c0cbd5b60e4387f1406be92bbc6fe7e8e7059a"
 metafile = true
 
 [[files]]
 file = "mods/chest-tracker.toml"
-hash = "4667c502a627c89937673b461f447105f3054cc936158fa6f16a5017c4c7c1fb"
+hash = "6d72b9301bd12b12cffe2b2bccf1afa8921ba55f34126f1c1c2e340067f86982"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "5dd6158497e03ea4566be3ba336e8af3b4fd24af7b9f553f5ecd08293b333955"
+hash = "1c72ed473d7bcf888406b872d153f78e6801260b54a01be15f2258dac62faac7"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "81b5af611b83c87a7c2dd1c53d26fa3a092fbefe1049f8eb2d1dee34a8d318f8"
+hash = "e2792879604eff64ba3d6427509e74f61d2d29b1318c5266dfecef0c7cb040f3"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "eb0af0e6ed353789acbccaedb0593bda9481127dce6736bff07158b9978d283f"
+hash = "35f0eff170774887bb94bc9cf97fbfb257005f6842c4f5e0e3391dc8f37b75f7"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "5213c0e126c9875127b9ac60d745a15b1f78bd4330b281d291ba5cc946c415a5"
+hash = "82f851549ebab1e43cebc4f9de71d374641d106569c50fe160d28d1955b84263"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "fe9337a7828ad1b7dfc039e264e2192c48a432a588a949eea2e6cd2c7dbfe743"
+hash = "18a885989537d9314748135d84ae066eab9506b9661f074591d1543c55677c04"
 metafile = true
 
 [[files]]
@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/watson.toml"
-hash = "763018db8bc628b11554309c882bbfdb9f89e1e278a7eb1d85171509ce67de2e"
+hash = "e1767aa53918d5e2f102e2aaadbb32e241ddf6b274fb7e2def2ea467de1552db"
 metafile = true
 
 [[files]]
