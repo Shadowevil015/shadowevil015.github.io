@@ -1,13 +1,13 @@
 name = "Mouse Wheelie (Fabric)"
-filename = "mousewheelie-1.8.4+mc1.18.2.jar"
+filename = "mousewheelie-1.8.7+mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3699/62/mousewheelie-1.8.4+mc1.18.2.jar"
+url = "https://edge.forgecdn.net/files/3712/855/mousewheelie-1.8.7+mc1.18.2.jar"
 hash-format = "murmur2"
-hash = "8928500"
+hash = "3409425755"
 
 [update]
 [update.curseforge]
-file-id = 3699062
+file-id = 3712855
 project-id = 317514

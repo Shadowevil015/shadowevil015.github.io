@@ -390,7 +390,7 @@ hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "75dbf362cb9b4c641d76a95094e572bfedf793da1df7825b55c89980b2f93024"
+hash = "9a32fce0a7f0067c20a393f90a52ad0731374a20bdccafec10d15fc1ace3fc91"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "18a885989537d9314748135d84ae066eab9506b9661f074591d1543c55677c04"
+hash = "a60ac0796b205c5f3cea970e2980fe3b16f57743a92882da47c9fda790fb8c9a"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "61f6dbcdf51f011ace4e29b7ad79caf59d3b48b2c3f2d2e3cf1ce8fad1dea84a"
+hash = "93384761b5f1261cd4b9e878b99778773263232a0ed248fc327774beda2e3077"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "4e979e86419078c56986e349c7679588a8f1098a96fb427b140c804a6b29d71b"
+hash = "fdd8b346c6cc3166cff92b1bd1d954b5addd0b632ebdd86ed8d39214e9fbd29c"
 metafile = true
 
 [[files]]
