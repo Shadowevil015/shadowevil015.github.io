@@ -390,7 +390,7 @@ hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9a32fce0a7f0067c20a393f90a52ad0731374a20bdccafec10d15fc1ace3fc91"
+hash = "9224a06f6869b7ad697486a69a58f14468df4cfe5aaf19aa81d7e6003f27be3c"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "a60ac0796b205c5f3cea970e2980fe3b16f57743a92882da47c9fda790fb8c9a"
+hash = "f8c8b210a3c9c32657941fb017bd0d0375d756f458d94e5d7cbf65bfc16cf428"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "93384761b5f1261cd4b9e878b99778773263232a0ed248fc327774beda2e3077"
+hash = "025528a51c16591c9add18e2ac43f114dea87a65f3101bff1890250137ea0945"
 metafile = true
 
 [[files]]
