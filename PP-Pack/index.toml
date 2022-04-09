@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+hash = "01bf08768ff9e48967ded3193b9cf71103de0ab50be5a99fff2e9a874e69a36b"
 metafile = true
 
 [[files]]
@@ -519,12 +519,12 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "4f7a996bedf69ad81e375d8c12fb41ad686a58281f451335419e2da8604967bb"
+hash = "bdd154c0eb731c942cb0589dfc87f4998c08b889b6ad5b36b2f047f44cf49675"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "750475ae185fb63ea3ca020733cf8ca133501a6ff909d49d99c99aee273d5144"
+hash = "83c8cfba83af135d7b1ee3d9f57cabcdd2c59604e5b78799f79c5ab0646fcf37"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "fdd8b346c6cc3166cff92b1bd1d954b5addd0b632ebdd86ed8d39214e9fbd29c"
+hash = "3b7c3c9ac40a209eff4c7440036135e9fc405843b271666c3b1ff4066e8193ad"
 metafile = true
 
 [[files]]
