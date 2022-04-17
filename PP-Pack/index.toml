@@ -390,7 +390,7 @@ hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9224a06f6869b7ad697486a69a58f14468df4cfe5aaf19aa81d7e6003f27be3c"
+hash = "df78287a5eabae9a3521234d35ca9d3d856df4411d4c3f5735f964e2df8ab413"
 metafile = true
 
 [[files]]
@@ -425,17 +425,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "40860c6ac8115a772af0e960f646fe166bcc772f0116be9c298ade157580f0ab"
+hash = "d50d34e698f146fdb2497e74ca16a553a7f909b12a048c41c3cd3b3741d1657c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e2792879604eff64ba3d6427509e74f61d2d29b1318c5266dfecef0c7cb040f3"
+hash = "ccb01a6396f83dab168960b8ab61cb2f145c59585063840be7c0a193797dc5c9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "01bf08768ff9e48967ded3193b9cf71103de0ab50be5a99fff2e9a874e69a36b"
+hash = "6f1eb0208f718e4700c4039a5060db267281861f633cff00bea69a16eb59d571"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "35f0eff170774887bb94bc9cf97fbfb257005f6842c4f5e0e3391dc8f37b75f7"
+hash = "8009c2982494ed9d1d9b61fd34d6f8199f042fd1bb7db896a876302fd22c9618"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "66b6c28b375dec074ee854b295b94d966faebe84c82d017aec8ca9959a3c17a1"
+hash = "64ab39b6ac8f07dc99d857dd839edbfbea19c89eaffc7bbd0df320bbbe6d8b3c"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "3b7c3c9ac40a209eff4c7440036135e9fc405843b271666c3b1ff4066e8193ad"
+hash = "6286b93f7940ceb182c049bbc946b52453b7107051dd13e508047d1b9f7f8d27"
 metafile = true
 
 [[files]]
