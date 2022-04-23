@@ -390,7 +390,7 @@ hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "df78287a5eabae9a3521234d35ca9d3d856df4411d4c3f5735f964e2df8ab413"
+hash = "a43aae5a3093ea92eb0279f7748874a5babdcdbb5c2789173feae92896e22dbb"
 metafile = true
 
 [[files]]
@@ -430,12 +430,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "ccb01a6396f83dab168960b8ab61cb2f145c59585063840be7c0a193797dc5c9"
+hash = "32515d6eb63a28091e263d535963e8972a2b221f6450a1299781ff6e97080f74"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "6f1eb0208f718e4700c4039a5060db267281861f633cff00bea69a16eb59d571"
+hash = "90bc10aeabaeb3b6cd70d57730def91e163faca134eea88434c625eabddbd211"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "025528a51c16591c9add18e2ac43f114dea87a65f3101bff1890250137ea0945"
+hash = "f3102b50ba2e9617e8432ec8e19fa88bbfd3a5c4ec4899990ef6a86aee366e8f"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "6286b93f7940ceb182c049bbc946b52453b7107051dd13e508047d1b9f7f8d27"
+hash = "c148277d80710dd52a4f51328ded44ff7af5800072549611583de1aaff622830"
 metafile = true
 
 [[files]]
