@@ -463,9 +463,8 @@ hash = "f6acf39c14ffe8af3f1ec2a60034e82fa0cf64d10387f67a01b7c688c3ec198d"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.toml"
-hash = "de553ecfac7565a313f8db312ce9143d6749214aade69c042dddcd28aabc00d6"
-metafile = true
+file = "mods/iris-mc1.18.2-1.2.3-pre-c16f2a14.jar"
+hash = "1c2e0198a26e0af018555f2d066caca6bbec187d6d6ca4b695be64b1ddd89c69"
 
 [[files]]
 file = "mods/krypton.toml"
@@ -510,6 +509,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.toml"
 hash = "f8c8b210a3c9c32657941fb017bd0d0375d756f458d94e5d7cbf65bfc16cf428"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "21ad3b683bd097d77d6f29b0de583ddabcab863709f716132eb739a629811f4d"
 metafile = true
 
 [[files]]
@@ -564,6 +568,10 @@ hash = "f613e5e5db9bd5766b6e27f0177a49582aefcbaa563c4b067ea9b1261131934b"
 [[files]]
 file = "resourcepacks/CCNet.zip"
 hash = "224f3e216d58db47416fd847c38658cf980e5fff036f8cdef42fe17bc9a875e9"
+
+[[files]]
+file = "resourcepacks/Fire_Rekindled.zip"
+hash = "37b408edfb9d7f124238ccc334f54dc45fc71376e76e49554ca6509a392b97ae"
 
 [[files]]
 file = "servers.dat"
