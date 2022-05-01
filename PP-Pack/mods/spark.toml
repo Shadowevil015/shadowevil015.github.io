@@ -1,13 +1,13 @@
 name = "spark"
-filename = "spark-1.8.14-fabric.jar"
+filename = "spark-1.9.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3670/53/spark-1.8.14-fabric.jar"
+url = "https://edge.forgecdn.net/files/3767/289/spark-1.9.1-fabric.jar"
 hash-format = "murmur2"
-hash = "2556720103"
+hash = "1586731142"
 
 [update]
 [update.curseforge]
-file-id = 3670053
+file-id = 3767289
 project-id = 361579

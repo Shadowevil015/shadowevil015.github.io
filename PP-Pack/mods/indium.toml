@@ -1,13 +1,13 @@
 name = "Indium"
-filename = "indium-1.0.2+mc1.18.2.jar"
+filename = "indium-1.0.3+mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3669/436/indium-1.0.2+mc1.18.2.jar"
+url = "https://edge.forgecdn.net/files/3767/308/indium-1.0.3+mc1.18.2.jar"
 hash-format = "murmur2"
-hash = "3702058911"
+hash = "322324671"
 
 [update]
 [update.curseforge]
-file-id = 3669436
+file-id = 3767308
 project-id = 459496

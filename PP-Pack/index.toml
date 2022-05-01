@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "c76f87dceddb22c87dfa84b30ca227724ae3d174502cc36c5f4dfef6cd41fc68"
+hash = "f6acf39c14ffe8af3f1ec2a60034e82fa0cf64d10387f67a01b7c688c3ec198d"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "64ab39b6ac8f07dc99d857dd839edbfbea19c89eaffc7bbd0df320bbbe6d8b3c"
+hash = "b9410fcb8d9c8335352a15b1d5551b1310794d9cf456b14e744ed51d9939af6c"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "bdd154c0eb731c942cb0589dfc87f4998c08b889b6ad5b36b2f047f44cf49675"
+hash = "8e6a85746129e61e76866b8e717afaa1373728dff21eb311ea523b92f8d4deb3"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "5edb4a9f2d0fd8eefeb27462aeb4656b71daaa2b234719e3a19689e073e4a1cc"
+hash = "9bf600a0e0e9fcedd81776c761d1c63313038aa0b3da18a0f5cc484a39fef79a"
 metafile = true
 
 [[files]]
