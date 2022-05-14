@@ -390,7 +390,7 @@ hash = "17677a55b5388badc51b5b28f0a3309a996f478d62c80fd70ea6a715a1173110"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a43aae5a3093ea92eb0279f7748874a5babdcdbb5c2789173feae92896e22dbb"
+hash = "1c316a752c3834145f2915b0f64988747e263be74010113f5dbc90c6c4b32fda"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.toml"
-hash = "683b11dae3bf33fbf1c61c3a52298231ccb8ed20c6cfe4db0d1e531a033c5372"
+hash = "0f4eef4767aab48464e9fe20689e1e91edaded02c0e9b6f2c1c45d1624b07aa5"
 metafile = true
 
 [[files]]
@@ -458,9 +458,8 @@ hash = "6b54d93ec68301281506dab8f73e00c4fce021836acbe0472f8edea204831a27"
 metafile = true
 
 [[files]]
-file = "mods/indium.toml"
-hash = "f6acf39c14ffe8af3f1ec2a60034e82fa0cf64d10387f67a01b7c688c3ec198d"
-metafile = true
+file = "mods/indium-1.0.2+mc1.18.2.jar"
+hash = "187bd698a55c508f8c7a71cb3fe8b8ed27964f77cd50aa670ca239453c1867dd"
 
 [[files]]
 file = "mods/iris-mc1.18.2-1.2.3-pre-c16f2a14.jar"
@@ -483,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "8009c2982494ed9d1d9b61fd34d6f8199f042fd1bb7db896a876302fd22c9618"
+hash = "2f567039d26b6720c312809a8b0ee3b9a3d531df71a3420d858ce4521e990231"
 metafile = true
 
 [[files]]
@@ -503,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "b9410fcb8d9c8335352a15b1d5551b1310794d9cf456b14e744ed51d9939af6c"
+hash = "6854cabcbea968e3226445961405ec31cb8c4fe3886854caca27bbbdfb5c2c1f"
 metafile = true
 
 [[files]]
@@ -548,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "f3102b50ba2e9617e8432ec8e19fa88bbfd3a5c4ec4899990ef6a86aee366e8f"
+hash = "89ed96463af8a781570aecf1826b3e4bec8e7153e6bfc30b77db7450a34a50cf"
 metafile = true
 
 [[files]]
@@ -558,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c148277d80710dd52a4f51328ded44ff7af5800072549611583de1aaff622830"
+hash = "fbce29772c21bdf161255c6a6a918c4883661346844538cf80c0e6570b7d29cd"
 metafile = true
 
 [[files]]
