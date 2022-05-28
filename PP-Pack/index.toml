@@ -463,8 +463,8 @@ hash = "9f6755cf4d7250897bea87c0c54d5e9a3faf13dfce6c725643f7fc2c7bef4435"
 metafile = true
 
 [[files]]
-file = "mods/iris-mc1.16.5-1.2.5-pre-dfd0504b.jar"
-hash = "0d5711a8fc8638a833a263ad42d45b6fe87d0e1aba628fb62187f6ae631fce1f"
+file = "mods/iris-mc1.18.2-1.2.5-pre-1c8dce22.jar"
+hash = "d1cf6768e214f400e0c29f696964aac57b4bd205af5c17b5b4f28fe292173a27"
 
 [[files]]
 file = "mods/krypton.toml"
