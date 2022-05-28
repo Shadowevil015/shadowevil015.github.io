@@ -458,12 +458,13 @@ hash = "6b54d93ec68301281506dab8f73e00c4fce021836acbe0472f8edea204831a27"
 metafile = true
 
 [[files]]
-file = "mods/indium-1.0.2+mc1.18.2.jar"
-hash = "187bd698a55c508f8c7a71cb3fe8b8ed27964f77cd50aa670ca239453c1867dd"
+file = "mods/indium.toml"
+hash = "9f6755cf4d7250897bea87c0c54d5e9a3faf13dfce6c725643f7fc2c7bef4435"
+metafile = true
 
 [[files]]
-file = "mods/iris-mc1.18.2-1.2.3-pre-c16f2a14.jar"
-hash = "1c2e0198a26e0af018555f2d066caca6bbec187d6d6ca4b695be64b1ddd89c69"
+file = "mods/iris-mc1.16.5-1.2.5-pre-dfd0504b.jar"
+hash = "0d5711a8fc8638a833a263ad42d45b6fe87d0e1aba628fb62187f6ae631fce1f"
 
 [[files]]
 file = "mods/krypton.toml"
@@ -532,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "c60b90f09ddd4cdd0fd6e93435713d005b6075ac6238d796b0ea25532ff69c50"
+hash = "0c83c344046d0b96fd7dcd9e5c98c44caa3d307126d502f202dba50855304fb9"
 metafile = true
 
 [[files]]
