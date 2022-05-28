@@ -579,3 +579,7 @@ hash = "77f4d3c19ef15c94d4f3211c0aedae52e4c97ffae5ab8360d2a76a0c4ce36e32"
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.3.3.zip"
 hash = "e47fb57d7acd74af4d3dcb622f6f8c94cac039efd2d826d7da56b12622656d1f"
+
+[[files]]
+file = "shaderpacks/Super-Duper-Vanilla-master.zip"
+hash = "f901351b4a739cb98a2281860b29dd3154bee6285a3c4e71ff29b4931324247d"
