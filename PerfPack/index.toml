@@ -111,6 +111,11 @@ hash = "555760a4c07416b9408402172dd73f11341a836dd6e749d2ef0a2f30a868987b"
 metafile = true
 
 [[files]]
+file = "mods/multiconnect.pw.toml"
+hash = "9e4ebb2b3eb8343d8ed671334a9db58293de0201d3809aaa43f985a3872e82a7"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
 metafile = true
