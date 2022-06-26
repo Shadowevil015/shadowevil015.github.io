@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "087e20d9f6a50f1e9167507f74a15857eb67d76ee69fa22be52bd0d14c15bb5c"
+hash = "826a261afe006c3d29a03c0b76fb861495dfa37261e816323045b9eccd567969"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49b2d1cd601a35967f875dbf0fa762295fc93621f1caa5292561ba527f1d0c9d"
+hash = "e7cec26ae28ac003a313d63fcb722b3c52c4ca10eae61e0ba7686ef4ae1410f5"
 metafile = true
 
 [[files]]
@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "555760a4c07416b9408402172dd73f11341a836dd6e749d2ef0a2f30a868987b"
+hash = "94bb0c9a377c9a1fea47cd9ad5a722b7d041ba11c896f5fd76fd20b6d08c603f"
 metafile = true
 
 [[files]]
 file = "mods/multiconnect.pw.toml"
-hash = "9e4ebb2b3eb8343d8ed671334a9db58293de0201d3809aaa43f985a3872e82a7"
+hash = "79c0ce8cbfc42ecaa863a8035939aa93b8ac5c49698501cf587b84fe699a5b16"
 metafile = true
 
 [[files]]
@@ -147,5 +147,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0807ea6c2d331838aee23ec8f6b41fe16fdab2869326306a637986962343b77f"
+hash = "e539d2aceef8a33be44a0d39f7f565f6268f4a5b77dad7f00f121cb800e448fb"
 metafile = true
