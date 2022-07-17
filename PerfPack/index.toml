@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "435e56fcc8cfa57b703bf8fc58cff9bc7662341324a87390ae18d9131cd1336c"
+hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "482d796d5448f41d254a12f60dc3891f88b5337c9d87ef0775306de00f9ef6e6"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "a6ad543780b4417ddeae78cb1ca9a337fab55262bc97c0f320d596dfd58fe080"
+hash = "e63228fdadc03ceaac771202e588fbf174bc0d47d5f20de863a5b8a5d233058a"
 metafile = true
 
 [[files]]
@@ -147,5 +147,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1eb33f86eead49f33a4e66497910f279c6d7f466da24686274f0a4b608ca9d68"
+hash = "0360f1b7e138c05c7e8a6541e087eac24845212cb8c0565c3a219c6abf6f41c3"
 metafile = true
