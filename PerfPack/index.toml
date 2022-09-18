@@ -1,6 +1,94 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
+
+[[files]]
+file = "config/cullleaves.json"
+hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "7f2cd4cdb360667f40a49f1de7366b3c377065e7f3733d62dae5243c3506fceb"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "ed9978cd06b31fe96a96c35f4f78dc507a57c92022e422bb810ee3ee4831d2d4"
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "e9b4e292e2fbb07ff5d71989c4c730f7e2a0e1b4f8e81f500b28f277984ffef1"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "2f9f1171953dd41f00fa41fd275455c5ee220a76d9a10236f2aa7434efe23036"
+
+[[files]]
+file = "config/iris.properties"
+hash = "464409d7c05bb4272a15dcf778423f77764b38873f7d5decc7aa4903f010330a"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "a934cdfb7eb1bf471e19fe222a25ba601dede7aebb402056dcc4f63604da31a7"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
+
+[[files]]
+file = "config/mousewheelie.hjson"
+hash = "6ad79b46bd7dc8071727a1a2ae65ef9dd0719b4142b00120f0f31c9efb64c59c"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "4a969fc3a7f709ff2e24f26e298feaa1eb94d3b5179c44ee5d10d987ce79f649"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "e7ea0b3f6f0a25f21a06357e46b89302a2f5349dd69ad1df6ec26ab011afebd9"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "8675359618807b4b81e630696f45c725c36425624699d9f6729216297ab2395f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "1189a764e220f47ce1ef0ff7b731196944fd876047d18e931a3b3751c2955bec"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "afec54bc6c2fb2a8847bcc5b8659a283cd08b2ca509786903c281eee5bc7fd3c"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
@@ -151,6 +239,15 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
+file = "mods/waveycapes.pw.toml"
+hash = "d6fcfef8a50bf79dd7b46de4015eef2d0e899b2d3542f5b356a28fa7f9e48db2"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "0360f1b7e138c05c7e8a6541e087eac24845212cb8c0565c3a219c6abf6f41c3"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "1ace0f97bbce2f5576d242e84884e2df54fd86f140345c8947b47ed5f16d671d"
