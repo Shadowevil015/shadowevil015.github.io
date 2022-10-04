@@ -1,12 +1,12 @@
 name = "Perf Pack"
 author = "Shadowevil015"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a93bc38afabcecab272c00c8f549f83030e54a395e50431e6ef838b296bd7f22"
+hash = "8c75c7725dbfb918c36d239278711c33b790c42fd03b9616a0183bb64abc8c1f"
 
 [versions]
 minecraft = "1.19.2"

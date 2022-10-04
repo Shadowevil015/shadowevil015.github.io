@@ -114,6 +114,11 @@ hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
+file = "mods/cosmetics.pw.toml"
+hash = "38c1b208564d8d375c422cbcba13a0e12b0d2b22a4a13e0fcc816bd6f3af0d14"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "9abd864619ec81ac3f03b917c79385634250686dab458b2b563026f4bcd7f2c1"
 metafile = true
@@ -126,11 +131,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "59da146d66e2948dfbd203684937dfb822711a228bd505332b5a979678bedbbc"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
 
 [[files]]
@@ -164,11 +164,6 @@ hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
-file = "mods/forgetmechunk.pw.toml"
-hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -194,6 +189,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "c5556efa17ec13eeaaf3095d2f64e81d8a53c5cb6241896b61d99c2c2d5679cd"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
@@ -201,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/logical-zoom.pw.toml"
 hash = "72bd5ceb05b99778dce144de6919a4c3b586211312d406af14ef36596b0a24f1"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
@@ -251,11 +256,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
-metafile = true
-
-[[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "d6fcfef8a50bf79dd7b46de4015eef2d0e899b2d3542f5b356a28fa7f9e48db2"
 metafile = true
 
 [[files]]
