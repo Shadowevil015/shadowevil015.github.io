@@ -224,11 +224,6 @@ hash = "74ede09820c1bfbea65f9a21f871b0cabc7f46f1c36dd050483ec37ddc5019ad"
 metafile = true
 
 [[files]]
-file = "mods/multiconnect.pw.toml"
-hash = "fb37c5d83d6827c4b3cf2b5e7dc01b90b86374527ed05f68e8c01f030f265212"
-metafile = true
-
-[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "b3d53702d8351a61707980136b9d04638d1411494dc372528211527500003da9"
 metafile = true
