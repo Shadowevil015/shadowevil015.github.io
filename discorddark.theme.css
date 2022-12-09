@@ -51,7 +51,7 @@
 	--gray-button-border: #919599;                                 /* Icons Size                                                             */
 	--settingsiconssize: 18px;                                     /* Gift and GIF Buttons (none | block)                                    */
 	--settingsiconsgap: 14px;                                      /* Settings Sidebar Width                                                 */
-	--sidebar-width: 245px;                                        /* Scrollbar Slider Color                                                 */
+	--sidebar-width: 100px;                                        /* Scrollbar Slider Color                                                 */
 	--scrollbar-color: rgba(55, 55, 55, 0.5);                      /* Scrollbar Slider Hover Color                                           */
 	--scrollbar-hover-color: rgba(75, 75, 75, 1);                  /* Scrollbar Width                                                        */
   --server-glow-intensity: 1;                                    /* Discord Opacity | Transparency Needs to be Enabled                     */
